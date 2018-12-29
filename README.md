@@ -8,4 +8,5 @@ cd Attacker
 chmod +x script.sh
 chmod +x airodump.sh
 chmod +x Aireplay.sh
+chmod +x remover.sh
 ./script.sh ...and begin HACKING ! 
